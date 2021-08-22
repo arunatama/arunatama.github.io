@@ -959,9 +959,10 @@ div#preloader {
 
 #portfolio-flters {
   padding: 0;
-  margin: 5px 0 35px 0;
+  margin: 5px 0 px 0;
   list-style: none;
   text-align: center;
+  
 }
 
 #portfolio-flters li {
